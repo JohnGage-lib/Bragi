@@ -1,0 +1,14 @@
+C:\Users\jgage1\Documents\VSCODE\GenerateSubjectLists\bin\Debug\net9.0\GenerateSubjectLists.exe
+C:\Users\jgage1\Documents\VSCODE\GenerateSubjectLists\bin\Debug\net9.0\GenerateSubjectLists.deps.json
+C:\Users\jgage1\Documents\VSCODE\GenerateSubjectLists\bin\Debug\net9.0\GenerateSubjectLists.runtimeconfig.json
+C:\Users\jgage1\Documents\VSCODE\GenerateSubjectLists\bin\Debug\net9.0\GenerateSubjectLists.dll
+C:\Users\jgage1\Documents\VSCODE\GenerateSubjectLists\bin\Debug\net9.0\GenerateSubjectLists.pdb
+C:\Users\jgage1\Documents\VSCODE\GenerateSubjectLists\obj\Debug\net9.0\GenerateSubjectLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgage1\Documents\VSCODE\GenerateSubjectLists\obj\Debug\net9.0\GenerateSubjectLists.AssemblyInfoInputs.cache
+C:\Users\jgage1\Documents\VSCODE\GenerateSubjectLists\obj\Debug\net9.0\GenerateSubjectLists.AssemblyInfo.cs
+C:\Users\jgage1\Documents\VSCODE\GenerateSubjectLists\obj\Debug\net9.0\GenerateSubjectLists.csproj.CoreCompileInputs.cache
+C:\Users\jgage1\Documents\VSCODE\GenerateSubjectLists\obj\Debug\net9.0\GenerateSubjectLists.dll
+C:\Users\jgage1\Documents\VSCODE\GenerateSubjectLists\obj\Debug\net9.0\refint\GenerateSubjectLists.dll
+C:\Users\jgage1\Documents\VSCODE\GenerateSubjectLists\obj\Debug\net9.0\GenerateSubjectLists.pdb
+C:\Users\jgage1\Documents\VSCODE\GenerateSubjectLists\obj\Debug\net9.0\GenerateSubjectLists.genruntimeconfig.cache
+C:\Users\jgage1\Documents\VSCODE\GenerateSubjectLists\obj\Debug\net9.0\ref\GenerateSubjectLists.dll
