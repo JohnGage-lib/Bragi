@@ -1,0 +1,10 @@
+# Visual Studio/IDE temporary files
+.vs/
+*.user
+
+# Build Artifacts (bin/ and obj/ folders)
+bin/
+obj/
+
+# Package files
+*.nupkg
